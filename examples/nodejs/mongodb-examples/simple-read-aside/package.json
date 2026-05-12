@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@aws-sdk/client-secrets-manager": "^3.369.0",
+    "@aws-sdk/client-secrets-manager": "^3.1045.0",
     "@gomomento/sdk": "^1.84.0",
     "mongodb": "^5.8.0"
   },
